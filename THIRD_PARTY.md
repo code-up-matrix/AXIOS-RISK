@@ -1,0 +1,3 @@
+# Third-party components
+The World Model runtime under lib/vendor/meterless is the unmodified Apache-2.0 reference from https://github.com/Meterless/Meterless/tree/main/engines/world-model/reference/src . Original license included. Upstream commit: 1742dec56a66e58eef9dda2d2b865823758ca8cd. The application persists the exact input observations and derived report in PostgreSQL, then reconstructs the graph for each request. The upstream in-memory graph is never the durable store.
+The web agent scaffold is eve 0.83.2 (MIT). This project is newly authored during the build window and uses declared pre-existing open-source frameworks. AI-assisted development must be disclosed in the submission.

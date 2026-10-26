@@ -1,0 +1,12 @@
+{
+  "name": "AXIOS Risk",
+  "requiredEnv": [
+    "DATABASE_URL",
+    "SESSION_SECRET",
+    "OPERATOR_ACCESS_CODE",
+    "ZETARIS_REST_URL",
+    "ZETARIS_API_KEY",
+    "ZETARIS_ORG_ID",
+    "ASSET_LIMITS_JSON"
+  ]
+}
